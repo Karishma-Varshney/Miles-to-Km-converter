@@ -1,4 +1,4 @@
 # Miles-to-Km-converter
-First Git repository
+It is a GUI application which takes a number in miles and convert it to the equivalent value in kilometers.
 <br>
 Author - Karishma Varshney
